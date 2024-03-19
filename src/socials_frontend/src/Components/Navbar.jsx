@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Breadcrumb, Layout, Menu, theme } from 'antd';
 import { LaptopOutlined, NotificationOutlined, UserOutlined } from '@ant-design/icons';
+import './Style/navbar.css'
 import Home from './Home';
 import Create from './Create_event';
 import Profile from './Profile';
