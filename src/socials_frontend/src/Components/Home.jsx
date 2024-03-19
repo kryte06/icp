@@ -52,7 +52,7 @@ const Home = () => {
             title={`Event ${event.eventId}`}
             bordered={false}
             style={{
-              width: 1230,
+              width: 1000,
               background: '#d5f4e6',
             }}
           >

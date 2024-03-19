@@ -18,7 +18,11 @@
   "dependencies": {
     "antd": "^5.15.3",
     "bootstrap": "^5.3.3",
+    "react-router-dom": "^6.22.3",
     "semantic-ui-css": "^2.5.0",
     "semantic-ui-react": "^2.1.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.2"
   }
 }
